@@ -1,3 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="bn1">one,one</string>
+    <string name="bn2">one,two</string>
+    <string name="bn3">one,three</string>
+    <string name="bn4">one,four</string>
+    <string name="bn5">two,one</string>
+    <string name="bn6">two,two</string>
+    <string name="bn7">two,three</string>
+    <string name="bn8">two,four</string>
+    <string name="bn9">three,one</string>
+    <string name="bn10">three,two</string>
+    <string name="bn11">three,three</string>
+    <string name="bn12">three,four</string>
+    <string name="bn13">four,one</string>
+    <string name="bn14">four,two</string>
+    <string name="bn15">four,three</string>
+    <string name="bn16">four,four</string>
+    <string name="app_name">UI SW</string>
+    <string name="red">RED</string>
+    <string name="orange">ORANGE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="purple">PURPLE</string>
+    <string name="violef">VIOLEF</string>
 </resources>

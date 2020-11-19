@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:stretchColumns="1">
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dp"
+            android:text="open..."
+            android:textColor="@android:color/background_light" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="crtl-o"
+            android:textColor="@android:color/background_light" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dp"
+            android:text="save..."
+            android:textColor="@android:color/background_light" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="ctrl-s"
+            android:textColor="@android:color/background_light" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dp"
+            android:text="save as..."
+            android:textColor="@android:color/background_light" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="crtl-shift-s"
+            android:textColor="@android:color/background_light" />
+    </TableRow>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/colorAccent" />
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dp"
+            android:text="X Import"
+            android:textColor="@android:color/background_light" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dp"
+            android:text="X Export..."
+            android:textColor="@android:color/background_light" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="crtl-E"
+            android:textColor="@android:color/background_light" />
+    </TableRow>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/colorAccent" />
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dp"
+            android:text="Quit"
+            android:textColor="@android:color/background_light" />
+
+    </TableRow>
+</TableLayout>
